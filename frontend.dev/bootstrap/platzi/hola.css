@@ -1,0 +1,45 @@
+.titulo2{
+    color: red;
+    font-size: 45px;
+    margin-bottom: 100px;
+}
+
+.titulo1{
+    color:blue;
+    font-size: 100px;
+    margin-bottom: 100px;
+}
+
+.imagen1{
+    width: 400px;
+    height: 400px;
+    margin-left: 400px;
+}
+
+.imagen2{
+    width: 400px;
+    height: 400px;
+    margin-left: 400px;
+}
+
+.parrafo{
+    color: sienna;
+    font-size: 20px;
+    margin:20px;
+    border: 2px solid red;
+}
+
+.boton{
+    width: 200px;
+    height: 100px;
+    background-color: royalblue;
+    color:white;
+    font-size: 13px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.boton:hover{
+    background-color: tomato;
+}
