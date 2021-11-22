@@ -1,0 +1,18 @@
+{
+  "name": "fundamentos_js",
+  "version": "1.0.0",
+  "description": "fundamentos de javascript - curso con Sasha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "sergio maury",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
